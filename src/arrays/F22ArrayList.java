@@ -43,8 +43,6 @@ public class F22ArrayList {
         BStudent bStudent = new BStudent(3);
         bStudent.soo(2);
         FStudent fStudent = new BStudent();
-
-
     }
 }
 
