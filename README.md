@@ -6,6 +6,12 @@
 
 This repository is a dedicated space for practicing and mastering the fundamental concepts of the Java programming language. It is structured to provide clear, focused examples for each core topic, serving as both a learning tool and a personal reference guide.
 
+## 📋 Table of Contents
+* [Project Overview](#-project-overview)
+* [Topics Covered](#-topics-covered)
+* [Getting Started](#-getting-started)
+* [Contributing](#-contributing)
+
 ## ✨ Project Overview
 
 The goal of this project is to build a strong and practical understanding of Java from the ground up. Each concept is isolated in its own package to ensure that the code is easy to navigate, understand, and test. This repository covers everything from basic syntax and data types to the core principles of Object-Oriented Programming (OOP).
