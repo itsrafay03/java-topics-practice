@@ -1,6 +1,6 @@
-# Java Core Concepts Practice Repository
+# Java Core Concepts: A Practice Repository
 
-![Language](https://img.shields.io/github/languages/top/itsrafay03/java-topics-practice?style=for-the-badge&color=orange)
+![Language](https://img.shields.io/github/languages/top/itsrafay03/java-topics-practice?style=for-the-badge&logo=java&color=orange)
 ![Repo Size](https://img.shields.io/github/repo-size/itsrafay03/java-topics-practice?style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/itsrafay03/java-topics-practice?style=for-the-badge&color=blue)
 
@@ -18,7 +18,7 @@ The goal of this project is to build a strong and practical understanding of Jav
 
 ## 📚 Topics Covered
 
-The practice code is organized into the following topic-based packages located in the `src` directory:
+The practice code is organized into the following topic-based packages located in the `src` directory. The list below accurately reflects the folder structure of the repository.
 
 | Topic                    | Folder Name              | Description                                                                    |
 | ------------------------ | ------------------------ | ------------------------------------------------------------------------------ |
