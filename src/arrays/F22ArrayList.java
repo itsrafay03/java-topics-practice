@@ -47,6 +47,8 @@ public class F22ArrayList {
 }
 
 class FStudent{
+    static int usman;
+    int rafay;
     int age;
     void soo(int age){
         System.out.println(age);
