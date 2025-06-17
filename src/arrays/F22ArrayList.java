@@ -26,7 +26,6 @@ public class F22ArrayList {
         return arrayList;
     }
 
-
     public static void main(String[] args) {
 //        F22ArrayList.displayArrayList(F22ArrayList.createArrayList());
         F22ArrayList.displayArrayList(F22ArrayList.sortArrayList(F22ArrayList.createArrayList()));
